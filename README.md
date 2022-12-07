@@ -2,6 +2,8 @@
 
 A simple game that randomly selects 2 numbers and alters the images on the page to the correct numbered dice. The header will also change declaring which dice is the winner or if there is a draw.
 
+[Click here to give it a try.](https://alexhill-coder.github.io/dice-minigame/)
+
 ## How to Use
 
 The file is written in standard HTML, CSS & JavaScript so there shouldn't be any issues running this from here or on your systems. 
